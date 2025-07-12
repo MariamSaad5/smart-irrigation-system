@@ -46,8 +46,7 @@ A smart irrigation system designed to monitor environmental conditions and autom
 ##screenshots of the circuit
   ### Hardware Setup  
 ![Hardware Setup](./circuit1.jpg)
-
-### Web Interface  
+  
 ![Hardware with the soil sensor](./circuit2.jpg)
 
 ---
